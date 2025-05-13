@@ -34,6 +34,6 @@ _Charging stations across multiple cities._
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio Website](#)
-- 🧠 [Medium Blog](#)
-- 💼 [LinkedIn](#)
-- 📬 Email: your@email.com
+- 🧠 [Medium Blog](#https://medium.com/@JPTenxengineer)
+- 💼 [LinkedIn](#https://www.linkedin.com/in/javokhirbekparpikhodjaev/)
+- 📬 Email: j.parpikhodjaev@qalb.uz
